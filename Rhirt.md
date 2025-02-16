@@ -1,0 +1,3 @@
+[[Mandalorian]] Ultra-Heavy Gunner.
+
+Met on [[Utapau]], where he was running as muscle for a smuggling mission with [[the Exchange]], with his [[Muri]], who he had been silently pining over for years. His [[Clan Ordo]] connections were a useful tool for [[Aurelion]] to gain some legitimacy early in the campaign, and he jumped onboard shortly after the mission to [[Tatooine]], where he started to truly understand what the party *could* eventually become.
