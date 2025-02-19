@@ -1,3 +1,3 @@
 Zabrak Exchange Agent.
 
-Met on [[Utapau]], where she took pity on a couple of forcibly-recruited souls, only to catch the edge of Party Gravity, and was sucked into an adventure that has dragged her halfway across the galaxy.
+Met on [[Utapau]], where she took pity on a couple of forcibly-recruited souls, only to catch the edge of Party Gravity, and was sucked into an adventure that has dragged her halfway across the galaxy. She's now the primary administrator of the more complex aspects of the [[Colony]]'s big-picture running, where the more mundane government that [[Tasha]] originally knew, has trouble adapting to the strangeness and rapid-fire changes the party has been pushing through.
