@@ -1,0 +1,1 @@
+Hulis university is a school that was dedicated to Noab Hulis, This is one of the main schools that focus on the lighter side of the force mainly used by the Jedi. While they don't teach the sith side of the force they do teach the basics of it use.
