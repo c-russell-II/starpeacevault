@@ -1,0 +1,1 @@
+The luka sene are a secret police type of organization that keeps the order in miralukan worlds and society. i think.... yup sounds right to me.

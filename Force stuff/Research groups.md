@@ -1,0 +1,12 @@
+These groups are made of different people that choses to join the research groups for the experience and knowledge they figure out along the way.
+ They are organized as follows, groups are lead by a research lead that is appointed by experience in relevant field, the lead then picks the main focus direction to complete the goal as well as safe testing parameters (i.e practice making "green fire" but only practice the "green fire" on an asteroid you are willing to lose) then they participate and keep watch over the other members of the team.
+   Research topics are available in Yaryu's office in the school, simply ask him for something interesting to look into, then form your study group around any topic you find interesting. multiple groups studying the same topic are allowed and encouraged to share work or ideas.
+To start of this and encourage students to start forming there own groups i had the three teachers make groups to study some things for the school.
+	1st teacher group (jedi focused) Crystal mood rings.
+	this group is studying how to make a ring that has a crystal imbedded in it that will show someone alignment to the force visibly, thus allowing one to have a cool ring.
+	2nd teacher group (sith focused) Cataloging sith artifacts from the fleet battle.
+	will take 0/24
+	3rd teacher group (dathomiri focused) Aura cleansing relaxation area
+	the goal is to figure out a way to allow the different for users auras not clash as hard in an area and allow people trying to cleanse them self's of any one alignment to have a starting zone to do that, so if people want to walk a grey path they can start here.
+	4th My group (plant growth aura) not the real one because i don't want to have more people risk corruption till i can fix it.
+	Plant growth class i teach the aura to anyone who finds me while i'm trying to develop the holocron network for the foundry. then after they learn it i just tell they that there is another way to do it and send them back out to figure out the other ways,(i don't know them yet)
