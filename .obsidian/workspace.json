@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Force stuff/Yaryu's Research Projects.md",
+                "file": "Force stuff/Research groups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yaryu's Research Projects"
+              "title": "Research groups"
             }
           },
           {
@@ -45,8 +45,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,14 +192,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c30750554fee862e",
+  "active": "8d2e160ac019c365",
   "lastOpenFiles": [
     "Force stuff/Yaryu's Research Projects.md",
-    "Wounds.md",
-    "Force stuff/School staff.md",
     "Force stuff/Research groups.md",
-    "Force stuff/Wounds in the force.md",
+    "Force stuff/School staff.md",
     "Force stuff/Yaryu school of thought.md",
+    "Wounds.md",
+    "Force stuff/Wounds in the force.md",
     "Force stuff/Ooben Yaryu.md",
     "Researching staff.md",
     "Knowledge Base.md",

@@ -4,8 +4,8 @@ These groups are made of different people that choses to join the research group
 To start of this and encourage students to start forming there own groups i had the three teachers make groups to study some things for the school.
 	1st teacher group (jedi focused) Crystal mood rings.
 	this group is studying how to make a ring that has a crystal imbedded in it that will show someone alignment to the force visibly, thus allowing one to have a cool ring.
-	2nd teacher group (sith focused) Cataloging sith artifacts from the fleet battle.
-	will take 0/24
+	2nd teacher group (sith focused) Force lightning redirection
+	In this group the goal is to find a reliable method ,and explanation for the method, to redirect and hold and manipulate lightning that is coming at you without having to strictly rely on having more power.
 	3rd teacher group (dathomiri focused) Aura cleansing relaxation area
 	the goal is to figure out a way to allow the different for users auras not clash as hard in an area and allow people trying to cleanse them self's of any one alignment to have a starting zone to do that, so if people want to walk a grey path they can start here.
 	4th My group (plant growth aura) not the real one because i don't want to have more people risk corruption till i can fix it.
