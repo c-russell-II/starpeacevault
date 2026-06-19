@@ -7,3 +7,5 @@ Buildings in the school complex:
 	Rakatan- The Undercroft
 	Miralukan- Seen
 	Central Hall- Aeternus Incrementum Archivum
+	Civilian Study- Embros Public Library
+	"Mandoa Military Academy- Mandalorian school of friendship and tolerance"

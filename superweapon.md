@@ -1,0 +1,1 @@
+This is in reference to the "anti-force" superweapon ship that I have in my "control" (as far as i have found out" that when fired it goes in a wide cone to remove the force (destructively) in the effected zone. 
